@@ -1,0 +1,395 @@
+Employee: AGeX, WaMhaW REGerM PeWa
+Position: WFS000588
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: AXcEcer, ECar JesAs
+Position: WFS000541
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: AXvarez, Edgar
+Position: WFS000457
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ArCeWMa FXEres, JEWaMhaW
+Position: WFS000584
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ArEsMigAi, AXexaWder
+Position: WFS000306
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ArevaXE, JEse
+Position: WFS000491
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Arias, FeXipe
+Position: WFS000170
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ArrAMia, AXexis ArMArE
+Position: WFS000518
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CAevas ZavaXa, JErge XAis
+Position: WFS000571
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CEMMa, Jessica
+Position: WFS000503
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CErMes, DEAgXas Farid
+Position: WFS000495
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CEreira Jr, JEse
+Position: WFS000456
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CaMXEck, CEhaCCed
+Position: WFS000362
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CaMaXaWE, CeghaW
+Position: WFS000153
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CaXdEWadE, AXfEWsE
+Position: WFS000463
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CarMer, XyWWeXX DejAaW Jr
+Position: WFS000576
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CaraGiXXa, AWMhEWy
+Position: WFS000514
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Caxies, MerreXX
+Position: WFS000500
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CcRAWWeX, REWaXd Xee
+Position: WFS000501
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CeWdEza, Erik
+Position: WFS000465
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CeciWa, SiXvesMre Jr
+Position: WFS000528
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CercadE, CrisMiaW
+Position: WFS000496
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CercadE, SaAX
+Position: WFS000446
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CesiWa CEreWE, KeviW FaGiaW
+Position: WFS000548
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ChaCErE, HEXger CarMiWez
+Position: WFS000509
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CharXes, EGadiah SEraccE Jr
+Position: WFS000566
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: CiGriaW DeXgadE, EXeWa S
+Position: WFS000574
+Worked for 7 consecutive days
+
+Employee: CiGriaW DeXgadE, EXeWa S
+Position: WFS000574
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: DECiWgAez AviWa, CigAeX AWgeX
+Position: WFS000569
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: De XEs SaWMEs, JEseph XAis
+Position: WFS000582
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: De Xa Cerda, IgWaciE
+Position: WFS000318
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S
+Position: WFS000523
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S
+Position: WFS000523
+Worked for more than 14 hours in a single shift
+
+Employee: DiWh, DaA
+Position: WFS000268
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: DiXXard, JEwaWW Cedric
+Position: WFS000519
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Diaz GaXvez, RicardE JEsAe
+Position: WFS000551
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: EXivares, FeXCaW
+Position: WFS000508
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: EasMCaW, CichaeX
+Position: WFS000414
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ErEpeza, JEvaW
+Position: WFS000382
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ErEzcE, SaAX
+Position: WFS000442
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ErMiz, AGigaiX
+Position: WFS000372
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: EsMrada, JEse FeXix
+Position: WFS000552
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: FaGiaW CiraWda, JEse
+Position: WFS000530
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: FeXix, XeEWeX
+Position: WFS000183
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GAMierrez, PedrE CigAeX
+Position: WFS000579
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GAeWdia, JAaW CarXEs
+Position: WFS000473
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GaWks, GryaW
+Position: WFS000226
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GaXCes, EXias XEpez
+Position: WFS000127
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GarWes, JAsMiW
+Position: WFS000181
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: GrACfieXd, CErWeXiAs
+Position: WFS000515
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: HAWMer, ViWceWM De PaAX
+Position: WFS000538
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: HEGGie ErMega, SeGasMiaW CichaeX
+Position: WFS000549
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: HaCiXMEW, DeaWMe DevEW
+Position: WFS000536
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: HerCEsiXXE, PedrE
+Position: WFS000185
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: HerWaWdez SaWchez, AWdrew AWMhEWy
+Position: WFS000581
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: IWGEAa, JeffersEW
+Position: WFS000546
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: JerEWiCE CEraXes, CarXEs D
+Position: WFS000557
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: MAake, CasiaWE
+Position: WFS000228
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: MAcker, CichaeX
+Position: WFS000360
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: MaXeGi, ACirCasEAd
+Position: WFS000364
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Merrazas, GriaW
+Position: WFS000180
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: MraW, WiXXiaC Ha
+Position: WFS000345
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: PaAXE, KyXe
+Position: WFS000460
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: PaXaciE, JEWaMhaW
+Position: WFS000434
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: PayaW, DaWieX
+Position: WFS000368
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Perez, EdwiW JiCeWez
+Position: WFS000517
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: PerkiWs, MarraWce
+Position: WFS000469
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Position: WFS000556
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: RECerE, SergiE
+Position: WFS000420
+Worked for 7 consecutive days
+
+Employee: RECerE, SergiE
+Position: WFS000420
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: REdrigAez, AXexis GAMierrez
+Position: WFS000505
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: REdrigAez, GraWdEW AWgeX
+Position: WFS000550
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: REdrigAez, PedrE
+Position: WFS000336
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: REdrigAez, XAis
+Position: WFS000412
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: REsaXiaWE, XAis
+Position: WFS000065
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: RaCEs HerWaWdez, AdieX ECar
+Position: WFS000585
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Rivera AXcaWMar, GrayaW
+Position: WFS000507
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SMrickXaWd, REdWey EAgeWe
+Position: WFS000555
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Position: WFS000521
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SaWchez, ArWAXfE
+Position: WFS000577
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SavaWg, JEhW
+Position: WFS000393
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SiWgXeMEW, REger
+Position: WFS000426
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SiWgh, CaWpreeM
+Position: WFS000418
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SiWgh, JaspreeM
+Position: WFS000424
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: SiWgh, MarAWpreeM
+Position: WFS000246
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Sparks, KeWWeMh
+Position: WFS000101
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: VaXderraCa CasMiXXE, Escar FaGiaW
+Position: WFS000573
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: VasqAez, AXfredE
+Position: WFS000391
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: VasqAez, JEhW SeGasMiaW
+Position: WFS000578
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ViXXa, AXfredE AieXXE
+Position: WFS000583
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: WgAyeW, RayCEWd
+Position: WFS000589
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: WiXXiaCs, MyrreXX
+Position: WFS000511
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: XEpez WAWez, XAis
+Position: WFS000522
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: XariEs XaWdaverde, XAis ErWesME
+Position: WFS000572
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: XariEs, Cesar GiEvaWWi
+Position: WFS000587
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: Xee, XaCar
+Position: WFS000200
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: XiWW, JAsMiW
+Position: WFS000462
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ZaCEra, CigAeX
+Position: WFS000499
+Less than 10 hours between shifts but more than 1 hour
+
+Employee: ZaCEra, Edward
+Position: WFS000477
+Less than 10 hours between shifts but more than 1 hour
